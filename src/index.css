@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+}
+
+.MuiIconButton-root:hover {
+  background-color: transparent !important;
+}
