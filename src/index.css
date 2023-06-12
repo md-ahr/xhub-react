@@ -5,3 +5,11 @@ body {
 .MuiIconButton-root:hover {
   background-color: transparent !important;
 }
+
+.MuiMenuItem-root:first-child {
+  border-top: 0;
+}
+
+.css-6hp17o-MuiList-root-MuiMenu-list {
+  padding: 0 !important;
+}
